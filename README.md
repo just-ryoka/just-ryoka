@@ -3,8 +3,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=just-ryoka&theme=radical)
 
 <h1>Contact</h1>
-- Discord: @just_ryoka
-- Website: https://ryoka.nnko.uk/
+<div>Discord: @just_ryoka</div>
+<div>Website: https://ryoka.nnko.uk/</div>
 
 <!--
 **just-ryoka/just-ryoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
